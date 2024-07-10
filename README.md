@@ -1,3 +1,3 @@
-# Calculator
-creating a calculator using html,css,js
+# LANDING PAGE
+creating a WEB LANDING PAGE using html,css,js
 Authur-Rahul khatua
